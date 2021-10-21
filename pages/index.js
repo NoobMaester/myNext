@@ -14,7 +14,7 @@ export default function Home({articles}) {
     </div>
   )
 }
-
+ 
 
 
 export const getStaticProps = async () => {
@@ -28,3 +28,4 @@ export const getStaticProps = async () => {
     }
   }
 }
+
